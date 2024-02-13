@@ -1,9 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using static UnityEditorInternal.ReorderableList;
-using UnityEngine.InputSystem.EnhancedTouch;
-using static UnityEngine.Rendering.VolumeComponent;
 
 [RequireComponent(typeof(Rigidbody))]
 public class PlayerMovement : MonoBehaviour
